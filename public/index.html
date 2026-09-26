@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="ClauseShield turns legal documents into clear summaries, risk reviews, comparisons, and questions for counsel." />
+  <title>ClauseShield — Read the fine print clearly</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Newsreader:opsz,wght@6..72,400;6..72,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="grain"></div>
+  <header>
+    <a class="brand" href="/" aria-label="ClauseShield home"><span>CS</span> ClauseShield</a>
+    <div class="privacy"><i></i> Session only · not stored</div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <p class="eyebrow">Legal documents, made legible</p>
+      <h1>Know what the<br><em>fine print</em> asks of you.</h1>
+      <p class="lede">Turn an agreement into plain language, spot terms worth a closer look, compare versions, and prepare better questions for a lawyer.</p>
+      <div class="notice"><strong>Information, not legal advice.</strong> ClauseShield can be incomplete or mistaken. A qualified professional should review decisions with legal or financial consequences.</div>
+    </section>
+
+    <section class="workspace" aria-label="Document analysis workspace">
+      <div class="steps"><span class="active">01 · Document</span><span>02 · Lens</span><span>03 · Findings</span></div>
+      <div class="paper">
+        <div class="paper-head">
+          <div><label for="document">Primary document</label><p>Paste text or add a plain-text file</p></div>
+          <label class="file-button">Add .txt file<input id="file" type="file" accept=".txt,.md,text/plain" /></label>
+        </div>
+        <textarea id="document" maxlength="70000" placeholder="Paste an agreement, policy, lease, or other legal document here…"></textarea>
+        <div class="paper-foot"><button id="sample" class="text-button">Use a sample agreement</button><span id="count">0 / 70,000</span></div>
+      </div>
+
+      <div class="lens-block">
+        <p class="label">Choose a lens</p>
+        <div class="lenses" role="group" aria-label="Analysis type">
+          <button class="lens selected" data-task="overview"><b>Plain language</b><span>Explain the key terms</span></button>
+          <button class="lens" data-task="risks"><b>Review clauses</b><span>Surface obligations and concerns</span></button>
+          <button class="lens" data-task="question"><b>Ask the document</b><span>Get an answer with quotations</span></button>
+          <button class="lens" data-task="compare"><b>Compare versions</b><span>Find material changes</span></button>
+          <button class="lens" data-task="prepare"><b>Prepare for counsel</b><span>Build a focused meeting brief</span></button>
+        </div>
+      </div>
+
+      <div id="question-field" class="conditional" hidden><label for="question">Your question</label><input id="question" maxlength="500" placeholder="What happens if I end this agreement early?" /></div>
+      <div id="compare-field" class="conditional" hidden><label for="second-document">Document B</label><textarea id="second-document" maxlength="70000" placeholder="Paste the second version or agreement here…"></textarea></div>
+
+      <div class="action-row"><p>AI can miss context, jurisdiction, or recent changes in law.</p><button id="analyze">Analyze document <span>→</span></button></div>
+      <div id="error" class="error" role="alert" hidden></div>
+    </section>
+
+    <section id="results" class="results" aria-live="polite" hidden>
+      <div class="results-head"><div><p class="eyebrow">Analysis desk</p><h2>Your findings</h2></div><div><button id="copy" class="text-button">Copy</button><button id="download" class="text-button">Download .txt</button></div></div>
+      <div id="loading" class="loading" hidden><span></span><span></span><span></span><p>Reading clauses and tracing obligations…</p></div>
+      <article id="output"></article>
+    </section>
+  </main>
+  <footer><span>ClauseShield</span><p>Your documents remain in this browser session unless you request an analysis.</p><p>Not a law firm · No attorney-client relationship</p></footer>
+  <script type="module" src="/app.js"></script>
+</body>
+</html>
