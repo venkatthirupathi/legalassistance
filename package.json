@@ -7,6 +7,6 @@
     "test": "node --test"
   },
   "dependencies": {
-    "@google/genai": "^1.41.0"
+    "openai": "^6.16.0"
   }
 }

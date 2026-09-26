@@ -8,7 +8,7 @@ It provides legal information, not legal advice. The product consistently asks u
 
 - `public/` contains the accessible, responsive browser experience.
 - `netlify/functions/analyze.mts` handles analysis through Netlify AI Gateway.
-- The supported Google `gemini-2.5-flash` model provides document-grounded responses.
+- The supported OpenAI `gpt-5.4-mini` model provides document-grounded responses.
 - Documents are kept in browser memory and submitted only when the user requests an analysis. No application database is used.
 
 ## Local development
