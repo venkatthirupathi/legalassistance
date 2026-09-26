@@ -1,6 +1,6 @@
-import OpenAI from 'openai'
+import { GoogleGenAI } from '@google/genai'
 
-const client = new OpenAI()
+const client = new GoogleGenAI({})
 const MAX_CHARS = 70000
 
 const tasks: Record<string, string> = {
@@ -31,13 +31,16 @@ export default async (req: Request) => {
     if (secondDocument) input.push(`DOCUMENT B\n---\n${secondDocument}\n---`)
     if (question) input.push(`USER QUESTION\n${question}`)
 
-    const response = await client.responses.create({
-      model: 'gpt-5.4-mini',
-      instructions: system,
-      input: input.join('\n\n'),
-      max_output_tokens: 2400,
+    const response = await client.models.generateContent({
+      model: 'gemini-2.5-flash',
+      contents: input.join('\n\n'),
+      config: {
+        systemInstruction: system,
+        maxOutputTokens: 2400,
+      },
     })
-    return Response.json({ result: response.output_text })
+    if (!response.text) throw new Error('Gemini returned an empty response')
+    return Response.json({ result: response.text })
   } catch (error) {
     console.error('Analysis failed', error instanceof Error ? error.message : 'Unknown error')
     return Response.json({ error: 'Analysis is temporarily unavailable. Please try again.' }, { status: 500 })
