@@ -1,0 +1,109 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement ("Agreement") is entered into as of
+January 15, 2026 (the "Effective Date"), by and between Brightpeak Digital
+Solutions LLC, a company organized under the laws of Delaware ("Company"),
+and the undersigned freelance contractor ("Contractor"). Company and
+Contractor may each be referred to as a "Party" and collectively as the
+"Parties."
+
+WHEREAS, Company desires to engage Contractor to perform certain design
+and development services, and Contractor desires to provide such
+services, the Parties agree as follows:
+
+SECTION 1. SERVICES
+1.1 Contractor shall perform web design, front-end development, and
+related digital services as described in Exhibit A (the "Services") to
+the satisfaction of Company, in Company's sole and absolute discretion.
+1.2 Company reserves the right to modify the scope of Services at any
+time without adjustment to the compensation set forth in Section 3,
+unless such modification exceeds fifty percent (50%) of the original
+scope, as determined by Company.
+
+SECTION 2. INTELLECTUAL PROPERTY
+2.1 Contractor hereby irrevocably assigns, transfers, and conveys to
+Company, in perpetuity and throughout the universe, all right, title, and
+interest in and to any and all work product, inventions, designs, code,
+concepts, drafts, notes, and derivative works created by Contractor at
+any time during the Term, whether or not related to the Services,
+including any pre-existing intellectual property incorporated into the
+deliverables.
+2.2 Contractor waives any and all moral rights in the work product and
+agrees not to use, license, or reference any work product created under
+this Agreement in Contractor's portfolio, case studies, or marketing
+materials without Company's prior written consent, which may be withheld
+in Company's sole discretion.
+
+SECTION 3. COMPENSATION
+3.1 Company shall pay Contractor a total fee of $8,500 for the Services,
+payable within ninety (90) days following Company's final written
+acceptance of all deliverables.
+3.2 No interest, penalty, or late fee shall accrue on any payment made by
+Company, regardless of delay.
+3.3 Company may withhold payment in full if, in Company's sole judgment,
+any deliverable requires revision, with no obligation to specify the
+required revisions in writing.
+
+SECTION 4. INDEMNIFICATION AND LIABILITY
+4.1 Contractor shall indemnify, defend, and hold harmless Company, its
+officers, directors, employees, and affiliates from and against any and
+all claims, damages, losses, liabilities, costs, and expenses (including
+reasonable attorneys' fees) arising out of or related to the Services,
+this Agreement, or Contractor's acts or omissions, without limitation as
+to amount.
+4.2 Company's total liability to Contractor under this Agreement, whether
+in contract, tort, or otherwise, shall not exceed one hundred dollars
+($100), under any circumstances.
+4.3 Contractor's liability under this Agreement shall be unlimited and
+shall survive termination of this Agreement indefinitely.
+
+SECTION 5. NON-COMPETE AND NON-SOLICITATION
+5.1 During the Term and for a period of five (5) years following
+termination of this Agreement, Contractor shall not, directly or
+indirectly, provide services similar to the Services to any business
+operating in the digital design, marketing, or software development
+industry anywhere in the world.
+5.2 Contractor shall not solicit, hire, or engage any employee,
+contractor, or client of Company for a period of five (5) years following
+termination, regardless of who initiates contact.
+
+SECTION 6. CONFIDENTIALITY
+6.1 Contractor shall keep confidential all information disclosed by
+Company, whether marked confidential or not, indefinitely, with no
+expiration of this obligation.
+
+SECTION 7. TERMINATION
+7.1 Company may terminate this Agreement at any time, with or without
+cause, immediately upon written notice to Contractor.
+7.2 Contractor may terminate this Agreement only upon ninety (90) days'
+prior written notice to Company, and only after completing all
+outstanding deliverables in progress at the time notice is given.
+7.3 Upon termination for any reason, Contractor shall not be entitled to
+payment for any work performed but not yet accepted by Company under
+Section 3.3.
+
+SECTION 8. GOVERNING LAW AND DISPUTE RESOLUTION
+8.1 This Agreement shall be governed by the laws of the State of
+Delaware, without regard to conflict of law principles.
+8.2 Any dispute arising under this Agreement shall be resolved exclusively
+through binding arbitration administered by an arbitrator selected solely
+by Company, at a location of Company's choosing. Contractor waives any
+right to a jury trial or class action.
+
+SECTION 9. AUTOMATIC RENEWAL
+9.1 This Agreement shall automatically renew for successive one-year
+terms unless Contractor provides written notice of non-renewal at least
+one hundred twenty (120) days prior to the end of the then-current term.
+
+SECTION 10. ENTIRE AGREEMENT
+10.1 This Agreement constitutes the entire agreement between the Parties
+and supersedes all prior negotiations, representations, or agreements,
+whether written or oral.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the
+Effective Date first written above.
+
+BRIGHTPEAK DIGITAL SOLUTIONS LLC          CONTRACTOR
+By: _____________________________          By: _____________________________
+Name: J. Reyes, Managing Director          Name: _____________________________
+Date: ____________________________          Date: ____________________________

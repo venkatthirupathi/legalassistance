@@ -1,0 +1,49 @@
+# --- Environments ---
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# --- Secrets ---
+.env
+*.pem
+*.key
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+
+# --- Vector store artifacts (should NEVER exist on disk, but just in case) ---
+*.faiss
+*.index
+faiss_index/
+chroma_db/
+*.sqlite3
+
+# --- OS / Editor cruft ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# --- Uploaded user documents (runtime only, never commit user data) ---
+uploads/
+tmp/
+*.pdf
+*.docx  # uploaded contracts only; sample_*.txt files above are exempt
+
+# --- Test artifacts ---
+.pytest_cache/
+.coverage
+htmlcov/
+.pytest_cache
+
+# --- Packaging ---
+*.egg-info/
+dist/
+build/

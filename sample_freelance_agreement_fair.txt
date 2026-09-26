@@ -1,0 +1,101 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+This Independent Contractor Agreement ("Agreement") is entered into as of
+January 15, 2026 (the "Effective Date"), by and between Meridian Studio
+Collective LLC, a company organized under the laws of California
+("Company"), and the undersigned freelance contractor ("Contractor").
+Company and Contractor may each be referred to as a "Party" and
+collectively as the "Parties."
+
+WHEREAS, Company desires to engage Contractor to perform certain design
+and development services, and Contractor desires to provide such
+services, the Parties agree as follows:
+
+SECTION 1. SERVICES
+1.1 Contractor shall perform web design, front-end development, and
+related digital services as described in Exhibit A (the "Services").
+1.2 Any material change to the scope of Services shall be documented in
+a written change order signed by both Parties, including any associated
+adjustment to compensation or timeline.
+
+SECTION 2. INTELLECTUAL PROPERTY
+2.1 Upon full payment of all fees due under this Agreement, Contractor
+assigns to Company all right, title, and interest in the final
+deliverables specifically created for Company under this Agreement.
+2.2 Contractor retains ownership of any pre-existing tools, libraries,
+frameworks, or components used in creating the deliverables, and grants
+Company a non-exclusive, perpetual license to use such pre-existing
+materials solely as incorporated into the deliverables.
+2.3 Contractor may reference the completed project in Contractor's
+portfolio and marketing materials, provided that no confidential
+business information of Company is disclosed.
+
+SECTION 3. COMPENSATION
+3.1 Company shall pay Contractor a total fee of $8,500 for the Services,
+payable in two installments: fifty percent (50%) upon signing this
+Agreement, and the remaining fifty percent (50%) within fourteen (14)
+days following delivery of the final deliverables.
+3.2 Any payment not made within fourteen (14) days of its due date shall
+accrue interest at a rate of 1.5% per month.
+3.3 If Company requests revisions, Company shall provide specific written
+feedback within five (5) business days, and Contractor shall have a
+reasonable opportunity to address such feedback before any payment is
+withheld.
+
+SECTION 4. INDEMNIFICATION AND LIABILITY
+4.1 Each Party shall indemnify and hold harmless the other Party from
+claims arising out of that Party's own negligence, willful misconduct, or
+material breach of this Agreement.
+4.2 Neither Party's total liability under this Agreement shall exceed the
+total fees paid or payable under this Agreement, except in cases of gross
+negligence, willful misconduct, or breach of confidentiality obligations.
+
+SECTION 5. NON-COMPETE AND NON-SOLICITATION
+5.1 During the Term of this Agreement, Contractor agrees not to perform
+substantially similar services for Company's direct competitors on the
+same project scope.
+5.2 For a period of twelve (12) months following termination, neither
+Party shall solicit the other's employees for the purpose of hiring them
+away, though this shall not restrict Contractor's ability to work with
+any client, including Company's competitors, in Contractor's ordinary
+course of business.
+
+SECTION 6. CONFIDENTIALITY
+6.1 Each Party shall keep confidential any proprietary information
+disclosed by the other Party and marked as confidential, for a period of
+three (3) years following disclosure.
+
+SECTION 7. TERMINATION
+7.1 Either Party may terminate this Agreement for convenience upon
+fourteen (14) days' written notice to the other Party.
+7.2 Either Party may terminate immediately for material breach that
+remains uncured ten (10) business days after written notice of the
+breach.
+7.3 Upon termination, Contractor shall be paid for all work satisfactorily
+completed up to the effective date of termination, on a pro-rata basis.
+
+SECTION 8. GOVERNING LAW AND DISPUTE RESOLUTION
+8.1 This Agreement shall be governed by the laws of the State of
+California.
+8.2 Any dispute arising under this Agreement shall first be addressed
+through good-faith negotiation between the Parties, and if unresolved
+within thirty (30) days, may be submitted to mediation before either
+Party pursues litigation or arbitration in a mutually agreed venue.
+
+SECTION 9. TERM
+9.1 This Agreement is effective as of the Effective Date and continues
+until the Services are completed and accepted, unless earlier terminated
+under Section 7. This Agreement does not automatically renew.
+
+SECTION 10. ENTIRE AGREEMENT
+10.1 This Agreement constitutes the entire agreement between the Parties
+and supersedes all prior negotiations, representations, or agreements,
+whether written or oral.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement as of the
+Effective Date first written above.
+
+MERIDIAN STUDIO COLLECTIVE LLC             CONTRACTOR
+By: _____________________________          By: _____________________________
+Name: A. Chen, Studio Director              Name: _____________________________
+Date: ____________________________          Date: ____________________________
