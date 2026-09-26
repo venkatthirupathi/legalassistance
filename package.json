@@ -1,0 +1,12 @@
+{
+  "name": "clauseshield-netlify",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "openai": "^6.16.0"
+  }
+}
